@@ -37,6 +37,7 @@ I've been working as a QA since 2021. Skilled at web manual testing.
 - Author's course on YouTube by Artsiom Rusau " Tester from the beginning"
 - Author's course of English "YesToday" by Belousova A.
 - RS Schools - «JavaScript/Front-end Pre-school.Stage 0"» (in progress)
+- Stepik: Interactive SQL Trainer (in progress)
 
 ### LANGUAGE PROFICIENCE:
 - **English**: intermediate
