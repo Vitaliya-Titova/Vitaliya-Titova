@@ -9,10 +9,11 @@ I've been working as a QA since 2021. Skilled at web manual testing.
 ### :hammer_and_wrench: Skills & Technologies
 - SQL, MYSQL, ORACLE SQL,POSTGRESQL
 - GIT,GITHUB, GITBUSH
-- HTML, CSS
+- HTML5, CSS3
 - Terminal Linux
-- DEVTOOLS
-- Charles, Fiddler, Jmeter
+- Devtools
+- Charles, Fiddler
+- Jmeter
 - ADB
 - Postman
 - VS Code
