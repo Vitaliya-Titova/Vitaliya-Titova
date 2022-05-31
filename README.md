@@ -50,7 +50,7 @@ __Location__: Minsk, Belarus
 
 __Email__: titovavitaliy@gmail.com
 
-__LinkedIn__: vitaliya-titova
+__LinkedIn__: [vitaliya-titova](https://www.linkedin.com/in/vitaliya-titova)
 
  ### Fun fact:⚡
  I have a corgi dog 
