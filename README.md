@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+[![](https://www.codewars.com/users/Vitaliya-Titova/badges/large)](https://www.codewars.com/users/Vitaliya-Titova)   
+
 ### About me
 I've been working as a QA since 2021. Skilled at web manual testing.
 ### :hammer_and_wrench: Skills & Technologies
