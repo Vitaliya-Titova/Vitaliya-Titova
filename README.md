@@ -50,7 +50,6 @@ I've been working as a QA since 2021. Skilled at web manual testing.
 ### Contacts
 __Location__: Minsk, Belarus
 
-__Email__: titovavitaliy@gmail.com
 
 __LinkedIn__: [vitaliya-titova](https://www.linkedin.com/in/vitaliya-titova)
 
