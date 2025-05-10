@@ -7,7 +7,7 @@
 [![](https://www.codewars.com/users/Vitaliya-Titova/badges/large?theme=light)](https://www.codewars.com/users/Vitaliya-Titova)   
 
 ### About me
-I've been working as a QA since 2021. Skilled at web manual testing.
+I've been working as a QA since 2021. Skilled at web manual testing. Actively learning automated testing with Playwright for API and UI testing.
 ### :hammer_and_wrench: Skills & Technologies
 - SQL, MYSQL, ORACLE SQL,POSTGRESQL
 - GIT,GITHUB, GITBUSH
@@ -19,7 +19,8 @@ I've been working as a QA since 2021. Skilled at web manual testing.
 - ADB
 - Postman
 - VS Code
-- JavaScript (in progress)
+- JavaScript / TS
+- Playwright
 <!---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vitaliya-Titova&theme=dark&background=fff)](https://git.io/streak-stats)
@@ -27,21 +28,14 @@ I've been working as a QA since 2021. Skilled at web manual testing.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliya-Titova&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### Education
-- 2011-2016 - Belarussian National Technical University 
-  
-  "Customs affair"
-- 2014 - 2016 - Belarusian State Economic University 
-   
-   "Jurisprudence"
-  
- ### Additional education:
+### Professional Education
 - Author's course on testing by Vadim Ksendzov (Telegram @peplomot)
+- JS Automation testing Author’s Course | Anatoly Karpovich (in progress)
 - Author's course on YouTube by Artsiom Rusau " Tester from the beginning"
 - Author's course of English "YesToday" by Belousova A.
 - RS Schools - «JavaScript/Front-end Pre-school.Stage 0"» 
 - Stepik: Interactive SQL Trainer (in progress)
-- JS Automation Author’s Course | Anatoly Karpovich (in progress)
+
 
 ### LANGUAGE PROFICIENCE:
 - **English**: intermediate
@@ -49,8 +43,6 @@ I've been working as a QA since 2021. Skilled at web manual testing.
 - **Polish**: basic
 
 ### Contacts
-__Location__: Minsk, Belarus
-
 
 __LinkedIn__: [vitaliya-titova](https://www.linkedin.com/in/vitaliya-titova)
 
