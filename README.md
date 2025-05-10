@@ -1,14 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ5cmRsZmp4OHdobHM3aDZ2b3U3b2hnZDV5YjMyZHdmdWlzdnZtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XoOJT6dreVf1OdxW3t/giphy.gif" width="300"/>
-</div>
 
-### Hi there 👋
 
+## Hi there 👋
+
+
+## About me
+#### I've been working as a QA since 2021. Skilled at web manual testing.
+#### Actively learning automated testing with Playwright for API and UI testing.
+
+## :hammer_and_wrench: Skills & Technologies
 [![](https://www.codewars.com/users/Vitaliya-Titova/badges/large?theme=light)](https://www.codewars.com/users/Vitaliya-Titova)   
-
-### About me
-I've been working as a QA since 2021. Skilled at web manual testing. Actively learning automated testing with Playwright for API and UI testing.
-### :hammer_and_wrench: Skills & Technologies
 - SQL, MYSQL, ORACLE SQL,POSTGRESQL
 - GIT,GITHUB, GITBUSH
 - HTML5, CSS3
@@ -22,13 +22,13 @@ I've been working as a QA since 2021. Skilled at web manual testing. Actively le
 - JavaScript / TS
 - Playwright
 <!---
-### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vitaliya-Titova&theme=dark&background=fff)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliya-Titova&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### Professional Education
+## Professional Education
 - Author's course on testing by Vadim Ksendzov (Telegram @peplomot)
 - JS Automation testing Author’s Course | Anatoly Karpovich (in progress)
 - Author's course on YouTube by Artsiom Rusau " Tester from the beginning"
@@ -37,21 +37,21 @@ I've been working as a QA since 2021. Skilled at web manual testing. Actively le
 - Stepik: Interactive SQL Trainer (in progress)
 
 
-### LANGUAGE PROFICIENCE:
+## LANGUAGE PROFICIENCE:
 - **English**: intermediate
 - **Belarusian/Russian**: native
 - **Polish**: basic
 
-### Contacts
+## Contacts
 
 __LinkedIn__: [vitaliya-titova](https://www.linkedin.com/in/vitaliya-titova)
 
- ### Fun fact:⚡
- I have a corgi dog 
+ ## Fun fact:⚡
+ I have a corgi dog 🐕
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/0yOIUXX51I4sZ93oRL/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ5cmRsZmp4OHdobHM3aDZ2b3U3b2hnZDV5YjMyZHdmdWlzdnZtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XoOJT6dreVf1OdxW3t/giphy.gif" width="300"/>
 </div>
 <!---
 - 🔭 I’m currently working on ...
